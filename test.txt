@@ -1,4 +1,8 @@
 javascript framework:
 - react
-- vue
 - angular
+- master
+- node.js
+- vue.js
+- ember.js
+
