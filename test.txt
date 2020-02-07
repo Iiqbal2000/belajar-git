@@ -5,6 +5,9 @@ javascript framework:
 - node.js
 - vue.js
 - ember.js
+- mithril
+- polymer
+- aurelia
 
 php framework:
 - laravel
