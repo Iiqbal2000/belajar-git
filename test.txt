@@ -8,6 +8,7 @@ javascript framework:
 - mithril
 - polymer
 - aurelia
+- backbone.js
 
 php framework:
 - laravel
